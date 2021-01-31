@@ -19,9 +19,15 @@ In this challenge, we would like you to make a significant contribution to an op
 * Investigate and come up with a technical implementation/bug fix for the issue.
 * Create a Pull Request to the original project, and follow up if appropriate.
 
+**Contribution criteria**
+
+* It is up to you to decide on the problem to work on. However, as a guide, you should pick a problem that takes 2-4 hours to complete.
+* Of course, if you are really passionate about a project, feel free to take on a bigger challenge. However, please keep in mind that the final submission will be judged on code & design quality over number of lines of codes.
+
 **Project criteria**
 
 * The project must be written in either PHP (preferred) or Javascript/Typescript.
+	* If you want to use another language, let us know in advance.
 * The project should be a library and/or application with significant following.
 * The project should be an established (500+ commits) repository.
 
