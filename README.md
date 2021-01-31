@@ -53,3 +53,5 @@ You will also be asked to represent your solution as part of the in-person inter
 	* You will have a shiny open-source contribution to your name regardless of the outcome of the interview!
 * Why is this challenge so open-ended?	
 	* We want you to work on projects that you find interesting and/or meaningful.
+* I have more question about this coding challenge.
+	* You can [create an issue](https://github.com/thoaionline/round-2/issues/new) in this repository or email me directly [here](mailto:thoai.nguyen@greencap.com.au).
